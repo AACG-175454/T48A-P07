@@ -14,3 +14,5 @@ Realizar predicciones sobre el conjunto de prueba.
 Calcular el Error Cuadrático Medio (MSE) y el coeficiente de determinación (R 
 2
  ) para evaluar el modelo.   
+
+ Regresalos como una tupla: (mse, r2)
